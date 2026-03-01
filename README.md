@@ -22,5 +22,4 @@
 4) Обновляет шпаргалку
 
 Preview:
-Текстуры рисовались собственноручно. 
 <img width="669" height="837" alt="image" src="https://github.com/user-attachments/assets/ec97a8e2-d324-4aa4-b9b2-1296ba599555" />
